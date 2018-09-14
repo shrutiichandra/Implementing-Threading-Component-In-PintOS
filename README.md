@@ -5,7 +5,7 @@ Performed Kernel level programming of the Threading component in PintOS operatin
 2. Priority Scheduler that provides priority donation under required conditions 
 3. Multilevel Feedback Queue Scheduler for scheduling of processes at kernel level in the UNIX environment.
 
-### Files Changed
+### Files edited to implement the required operations
 1. timer.c
 2. thread.h
 3. thread.c
